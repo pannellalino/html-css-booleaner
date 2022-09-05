@@ -12,7 +12,7 @@ main {
   color: #3F8BFF;
 }
 
-.sottotitolo, .data {
+.sottotitolo, .data, .footer-text {
   color: #8B8B8B;
 }
 
@@ -27,4 +27,8 @@ main {
 ul {
   padding: 0px;
   margin-left: 15px;
+}
+
+th {
+  background-color: #1F97DE;
 }
