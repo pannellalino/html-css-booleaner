@@ -1,10 +1,10 @@
 header {
-  height: 200px;
+  height: 180px;
   background-color: #3F8BFF;
   background-image: url('../img/pattern.png');
 }
 
-main {
+main, footer, {
   margin: 15px;
 }
 
@@ -29,6 +29,16 @@ ul {
   margin-left: 15px;
 }
 
-th {
+thead {
   background-color: #1F97DE;
+  color: white;
+}
+
+.t1, .t3 {
+  background-color: #A4DFEE;
+}
+
+table {
+  margin-top: 15px;
+  margin-bottom: 15px;
 }
