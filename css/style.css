@@ -1,0 +1,30 @@
+header {
+  height: 200px;
+  background-color: #3F8BFF;
+  background-image: url('../img/pattern.png');
+}
+
+main {
+  margin: 15px;
+}
+
+.the-booleaner {
+  color: #3F8BFF;
+}
+
+.sottotitolo, .data {
+  color: #8B8B8B;
+}
+
+.data, .description-photos {
+  font-size: 12px;
+}
+
+.fluo {
+  background-color: yellow;
+}
+
+ul {
+  padding: 0px;
+  margin-left: 15px;
+}
